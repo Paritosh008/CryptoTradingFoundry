@@ -1,0 +1,2 @@
+# CryptoTradingFoundry
+Project CryptoTradingFoundry
