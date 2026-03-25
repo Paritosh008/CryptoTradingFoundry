@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
@@ -64,3 +65,7 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+=======
+# CryptoTradingFoundry
+Project CryptoTradingFoundry
+>>>>>>> 4372ac03ef5b28ea894902df6800d0bfb259016a
